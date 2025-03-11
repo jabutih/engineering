@@ -1,0 +1,7 @@
+- HTML
+- CSS
+- SCSS
+- JavaScript
+- TypeScript
+- React
+- React Native
