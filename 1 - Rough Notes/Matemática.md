@@ -1,5 +1,0 @@
-- [ ] Pre-Álgebra
-- [ ] Álgebra I
-- [ ] Geometria
-- [ ] Álgebra II
-- [ ] Trigonometria
